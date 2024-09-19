@@ -1,0 +1,1 @@
+# Data-Extraction-and-verification-using-OCR-and-CRNN
